@@ -1,5 +1,5 @@
 # Project information
-site_name: LibreChat
+site_name: PhantomChat
 
 # Repository
 repo_name: danny-avila/LibreChat
@@ -12,7 +12,7 @@ use_directory_urls: false
 
 theme:
   name: material
-  logo: assets/LibreChat.svg
+  logo: assets/
   favicon: assets/favicon_package/favicon-32x32.png
 
   palette:
