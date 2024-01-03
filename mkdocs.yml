@@ -12,8 +12,8 @@ use_directory_urls: false
 
 theme:
   name: material
-  logo: assets/
-  favicon: assets/favicon_package/favicon-32x32.png
+  logo: assets/img-ZThLwJeq8p9u6sgkl1avLaKK.png
+  favicon: assets/favicon_package/img-ZThLwJeq8p9u6sgkl1avLaKK.png
 
   palette:
 
